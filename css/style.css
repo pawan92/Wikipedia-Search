@@ -1,0 +1,28 @@
+h1 {
+  font-family: 'Marvel', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #FF8000;
+}
+body {
+  background-color:#D8D8D8;
+  
+}
+.center{
+  margin: auto;
+  width: 60%;
+}
+
+.search-query {
+  display:inline-block;
+  width: 74%;
+  
+}
+
+ul {
+  list-style:none;
+  text-align: left;
+ }
+.container{
+  background-color: white;
+  
+}
